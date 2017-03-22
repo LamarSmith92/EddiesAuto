@@ -1,0 +1,16 @@
+body {
+    background-image: url("http://kingofwallpapers.com/blue-background/blue-background-003.jpg");
+     background-size: auto;
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+
+}
+.btn-group {
+  bottom:3px;
+}
+#logo {
+  display: block;
+    margin: auto;
+    padding-top: 7vw;
+
+}
